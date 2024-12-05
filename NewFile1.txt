@@ -1,0 +1,2 @@
+This is New File1.txt.
+This File is example file for practice.
